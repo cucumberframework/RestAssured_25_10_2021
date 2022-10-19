@@ -5,4 +5,8 @@ public class StashFile {
 	
 	
 	//Now adding data and stashing 
+	
+	
+	//changes added by master branch 
+	
 }
